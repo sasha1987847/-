@@ -1,0 +1,24 @@
+"name": "Sasha"
+"who": "write",
+"color": "grey",
+"weight in kg": "0,016"
+}, {
+ "name": "pitcher",
+"who": "drink",
+"color": "red",
+"weight in kg": "0,5"
+}, {
+ "the name": "brush",
+"for whom": "paint",
+"color": "green",
+"weight in kg": "0.016"
+}, {
+"name": "leaf",
+"who": "picture",
+"color": "grey",
+"weight in kg": "0,003"
+}, {
+ "name": "table",
+"who": "dinner ",
+"color": "white",
+"weight in kg": "25"

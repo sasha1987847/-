@@ -1,0 +1,6 @@
+name, where what, color, weight in kg
+can, write, gray, 0.016
+jug, drink, red, 0.5
+brush, paint, green, 0.016
+leaf, letter, drawing, gray, 0.003
+table, dinner, white, 25

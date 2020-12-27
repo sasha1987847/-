@@ -1,0 +1,97 @@
+manufacturer	Warranty	Price	interface	matrix type	Year of release	Built-in speakers	Features
+msi	15-20	2000-4000	dvi	va	2017	yes	mhl support
+lg	0-5	4000-6000	display port	ips	2018	no	mhl support
+acer	6-9	8000+	hdmi	nt	2020	no	usb hub
+aoc	10-14	0-2000	hdmi	ips	2019	yes	rotary screen
+samsung	21+	6000-8000	display port	nt	2020	yes	curved screen
+watch sonic	10-14	6000-8000	dvi	va	2019	no	frameless
+xiaomi	21+	0-2000	dvi	va	2018	yes	usb hub
+philips	21+	2000-4000	hdmi	ips	2017	no	3d support
+lg	15-20	2000-4000	display port	nt	2019	yes	usb hub
+benk	0-5	4000-6000	hdmi	va	2020	yes	mhl support
+dell	10-14	0-2000	display port	nt	2017	no	height adjustment
+lg	6-9	8000+	dvi	va	2017	no	curved screen
+lg	15-20	8000+	hdmi	ips	2020	yes	frameless
+xiaomi	6-9	4000-6000	dvi	ips	2019	no	height adjustment
+hp	0-5	6000-8000	display port	ips	2017	yes	usb hub
+msi	0-5	8000+	display port	nt	2018	no	3d support
+asus	6-9	2000-4000	dvi	nt	2018	yes	frameless
+philips	10-14	4000-6000	dvi	nt	2018	yes	professional
+philips	0-5	0-2000	display port	va	2019	no	curved screen
+dell	15-20	2000-4000	hdmi	ips	2020	no	professional
+dell	0-5	4000-6000	dvi	va	2018	yes	usb hub
+lg	10-14	0-2000	dvi	va	2020	yes	3d support
+hp	21+	8000+	hdmi	nt	2019	no	mhl support
+samsung	15-20	4000-6000	hdmi	ips	2019	no	3d support
+acer	15-20	6000-8000	hdmi	ips	2018	yes	curved screen
+watch sonic	6-9	4000-6000	display port	ips	2017	yes	3d support
+dell	6-9	6000-8000	dvi	va	2019	no	rotary screen
+xiaomi	10-14	6000-8000	display port	nt	2020	yes	mhl support
+benk	10-14	2000-4000	dvi	ips	2017	no	curved screen
+xiaomi	10-14	8000+	hdmi	va	2017	no	3d support
+xiaomi	21+	4000-6000	hdmi	va	2018	no	curved screen
+aoc	0-5	6000-8000	dvi	va	2018	no	3d support
+samsung	0-5	2000-4000	dvi	nt	2018	no	rotary screen
+msi	6-9	0-2000	hdmi	ips	2019	yes	curved screen
+asus	21+	4000-6000	display port	va	2017	no	rotary screen
+dell	15-20	0-2000	display port	nt	2019	no	mhl support
+aoc	21+	4000-6000	display port	nt	2017	no	frameless
+dell	21+	8000+	hdmi	ips	2020	yes	3d support
+samsung	10-14	8000+	hdmi	va	2018	yes	height adjustment
+acer	21+	4000-6000	display port	va	2017	yes	mhl support
+hp	6-9	0-2000	display port	va	2020	yes	professional
+watch sonic	0-5	2000-4000	hdmi	nt	2020	no	curved screen
+samsung	6-9	6000-8000	hdmi	nt	2017	no	professional
+watch sonic	15-20	8000+	dvi	nt	2018	no	mhl support
+samsung	6-9	0-2000	dvi	ips	2020	yes	mhl support
+xiaomi	15-20	8000+	display port	nt	2020	yes	rotary screen
+acer	10-14	0-2000	dvi	va	2019	no	3d support
+hp	15-20	4000-6000	dvi	nt	2018	yes	curved screen
+benk	21+	0-2000	display port	nt	2018	yes	rotary screen
+watch sonic	21+	8000+	hdmi	va	2019	yes	professional
+aoc	15-20	2000-4000	dvi	ips	2020	no	height adjustment
+benk	6-9	6000-8000	hdmi	ips	2019	yes	professional
+aoc	6-9	8000+	display port	ips	2018	yes	professional
+lg	0-5	6000-8000	hdmi	va	2018	yes	professional
+hp	10-14	2000-4000	display port	ips	2018	no	3d support
+dell	0-5	0-2000	dvi	va	2018	no	frameless
+benk	0-5	6000-8000	dvi	ips	2017	no	height adjustment
+msi	21+	4000-6000	dvi	nt	2020	no	professional
+lg	21+	4000-6000	dvi	va	2019	yes	height adjustment
+philips	6-9	6000-8000	dvi	nt	2020	yes	rotary screen
+xiaomi	0-5	2000-4000	display port	ips	2017	no	frameless
+xiaomi	10-14	8000+	hdmi	nt	2020	no	professional
+hp	10-14	0-2000	hdmi	va	2017	no	height adjustment
+asus	10-14	0-2000	hdmi	ips	2020	yes	usb hub
+benk	15-20	8000+	hdmi	va	2018	yes	frameless
+acer	0-5	2000-4000	dvi	va	2017	yes	professional
+aoc	0-5	4000-6000	display port	ips	2017	yes	usb hub
+philips	15-20	8000+	hdmi	nt	2019	no	mhl support
+lg	6-9	2000-4000	hdmi	va	2019	yes	rotary screen
+acer	0-5	0-2000	hdmi	va	2020	yes	height adjustment
+acer	21+	8000+	hdmi	va	2019	yes	frameless
+msi	10-14	6000-8000	dvi	ips	2018	yes	rotary screen
+msi	10-14	0-2000	display port	ips	2017	yes	usb hub
+aoc	0-5	4000-6000	display port	va	2019	yes	mhl support
+samsung	0-5	6000-8000	display port	va	2020	no	usb hub
+msi	10-14	2000-4000	hdmi	va	2019	yes	height adjustment
+asus	0-5	6000-8000	dvi	nt	2019	yes	professional
+asus	15-20	8000+	dvi	nt	2018	no	3d support
+acer	6-9	6000-8000	hdmi	va	2017	yes	rotary screen
+watch sonic	15-20	0-2000	dvi	ips	2020	yes	rotary screen
+philips	6-9	6000-8000	display port	ips	2017	no	usb hub
+samsung	0-5	8000+	hdmi	ips	2020	yes	frameless
+watch sonic	10-14	6000-8000	dvi	ips	2019	no	usb hub
+asus	6-9	0-2000	display port	ips	2020	yes	mhl support
+hp	15-20	2000-4000	display port	nt	2018	yes	frameless
+philips	15-20	0-2000	dvi	nt	2019	yes	frameless
+aoc	10-14	8000+	dvi	nt	2018	no	curved screen
+philips	0-5	4000-6000	display port	va	2020	no	height adjustment
+hp	15-20	4000-6000	hdmi	va	2018	no	rotary screen
+msi	6-9	8000+	dvi	va	2018	no	frameless
+benk	0-5	4000-6000	dvi	nt	2017	no	usb hub
+watch sonic	15-20	4000-6000	display port	ips	2020	yes	height adjustment
+asus	15-20	6000-8000	dvi	ips	2018	yes	height adjustment
+asus	0-5	0-2000	display port	va	2020	no	curved screen
+benk	15-20	8000+	display port	va	2018	no	3d support
+dell	15-20	8000+	display port	nt	2020	yes	curved screen

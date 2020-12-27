@@ -1,0 +1,33 @@
+<? xml version= " 1.0 "encoding=" UTF-8"?>
+- < subjects>
+ -<subject>
+ < name>pitchers< / name>
+ < for what>write< / for what>
+ <color>red< / color>
+ <weight in kg>0.016< / weight in kg>
+< / subject>
+-<subject>
+ < name>glass < / name>
+ < for what > to drink< / for what>
+ <color>red< / color>
+ <weight in kg>0.5< / weight in kg>
+< / subject>
+-<subject>
+ < name>handle< / name>
+ < for what > paint< / for what>
+< color>green< / color>
+ <weight in kg>0.016< / weight in kg>
+< / subject>
+-<subject>
+ < name > leaflet< / name>
+ < for what>drawing a picture< / for what>
+ <color>green< / color>
+ <weight in kg>0.003< / weight in kg>
+< / subject>
+-<subject>
+ < name>table< / name>
+ < for what > dinner< / for what>
+< color>white< / color>
+ <weight in kg>25< / weight in kg>
+< / subject>
+< / subjects>

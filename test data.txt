@@ -1,0 +1,8 @@
+manufacturer: aoc, asus, acer, benk, dell, hp, lg, philips, samsung, xiaomi, msi, watch sonic
+Warranty: 0-5, 6-9, 10-14, 15-20, 21+
+Price: 0-2000, 2000-4000, 4000-6000, 6000-8000, 8000+
+interface: dvi, display port, hdmi
+matrix type: ips, nt, va
+Year of release: 2017, 2018, 2019, 2020
+Built-in speakers:yes, no
+Features:frameless, curved screen, rotary screen, professional, 3d support, mhl support, height adjustment, usb hub

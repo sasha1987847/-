@@ -1,0 +1,13 @@
+GET C:\Users\user>curl -v -H "Content-Type: application/json" http://151.80.70.42:3000/api/users
+
+
+POST C:\Users\user>curl -v -d "{\"name\":\"sasha\",\"phone\":\"0955183718\",\":\"Admin\"}" -H "Content-Type: application/json" http://151.80.70.42:3000/api/users
+
+
+
+PUT C:\Users\user>curl -v -X PUT -d "{\"name\":\"sasha\",\"phone\":\"0955183719\"\"role\":\"Administrator\"}" -H "Content-Type: application/json" http://151.80.70.42:3000/api/users/34
+
+
+
+
+DELETE C:\Users\user>curl -v -X DELETE -H "Content-Type: application/json" http://151.80.70.42:3000/api/users/34
